@@ -37,11 +37,8 @@ Embark on an educational adventure with Microscope AR. This augmented reality ap
 ![Microscope AR Image 2](images/AR2.jpg)
 ![Microscope AR Image 3](images/AR3.jpg)
 
-## Links
 
-- [Experience Details](https://yourwebsite.com/microscope-ar)
-- [Visit Our Website](https://yourwebsite.com)
 
 ---
 
-© Your Company Name. All rights reserved.
+© XRev Studio. All rights reserved.
