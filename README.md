@@ -37,7 +37,10 @@ Embark on an educational adventure with Microscope AR. This augmented reality ap
 ![Microscope AR Image 2](images/AR2.jpg)
 ![Microscope AR Image 3](images/AR3.jpg)
 
+## Video Showcase
 
+<a href="https://www.youtube.com/watch?v=1G4Q2tvQy_c" target="_blank"><img src="https://img.youtube.com/vi/1G4Q2tvQy_c/0.jpg" 
+alt="Ball Sort Game Video 1" width="240" height="180" border="10" /></a>
 
 ---
 
